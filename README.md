@@ -1,4 +1,4 @@
-# MICROSERVICES WITH SPRING CLOUD
+# MICROSERVICES CON SPRING CLOUD
 
 Proyecto final que se realizó como ejercicio de un curso de microservicios con spring cloud. Cuenta con 3 microservicios que se comunican entre si products-service->carts-service->sales-service en donde las API son consumidas con Feign
 
